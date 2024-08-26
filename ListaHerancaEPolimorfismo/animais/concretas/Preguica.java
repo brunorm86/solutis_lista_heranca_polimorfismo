@@ -13,7 +13,7 @@ public class Preguica extends AnimalAB {
         System.out.println("A "+nome+" grita!");
     }
 
-    public void subirEmArvores(double horasDormidas) {
+    public void subirEmArvores() {
 
     }
 
