@@ -1,4 +1,4 @@
-#### ### Solutis School Dev Trail - Nivelamento 2024
+#### Solutis School Dev Trail - Nivelamento 2024
 
 ## Herança e Polimorfismo - Lista de Exercícios
 
